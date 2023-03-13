@@ -12,5 +12,6 @@ Bu proje, basit bir pizza sipariş sistemi içermektedir. Kullanıcı, menüden 
     Kullanıcının birden fazla seçenek seçmesine olanak sağlar.
     Siparişin özetini gösterir.
     Şifreyi base64 şifreler.
+    Kullanıcı girişlerinde kontroller sağlar.
     Csv olarak siparişleri kaydeder.
     
